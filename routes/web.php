@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,6 +14,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::group(array('domain' => '127.0.0.1'), function () {
+
+
+    Route::get('/', 'App\Http\Controllers\Web\ControladorWebHome@index');
+
+
 });
