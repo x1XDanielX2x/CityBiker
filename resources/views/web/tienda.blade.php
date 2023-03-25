@@ -525,5 +525,5 @@
         </div>
     </section>
     <!--End Brands-->
-
+    
 @endsection
