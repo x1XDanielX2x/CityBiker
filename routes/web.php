@@ -21,6 +21,7 @@ Route::group(array('domain' => '127.0.0.1'), function () {
     Route::get("/tienda", 'App\Http\Controllers\Web\ControladorWebTienda@index');
     Route::get("/nosotros", 'App\Http\Controllers\Web\ControladorWebNosotros@index');
     Route::get("/contacto", 'App\Http\Controllers\Web\ControladorWebContacto@index');
+    Route::get("/tienda-unica", 'App\Http\Controllers\Web\ControladorWebTiendaUnica@index');
 
 
 });

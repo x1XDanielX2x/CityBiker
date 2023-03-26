@@ -134,11 +134,11 @@ https://templatemo.com/tm-559-zay-shop
                     <ul class="list-unstyled text-light footer-link-list">
                         <li>
                             <i class="fas fa-map-marker-alt fa-fw"></i>
-                            123 Consectetur at ligula 10660
+                            Calle 38 c sur # 88g - 17
                         </li>
                         <li>
                             <i class="fa fa-phone fa-fw"></i>
-                            <a class="text-decoration-none" href="tel:010-020-0340">+57 3162754213</a>
+                            <a class="text-decoration-none" href="tel:316-2754213">+57 3162754213</a>
                         </li>
                         <li>
                             <i class="fa fa-envelope fa-fw"></i>
@@ -159,15 +159,15 @@ https://templatemo.com/tm-559-zay-shop
                         <li><a class="text-decoration-none" href="#">Sport Shoes</a></li>
                     </ul>
                 </div>
-
+                    <!--  /usr/local/mysql/bin/mysqladmin -u root -p password --><!-- Codigo para restaurar la contraseña del nuevo usuario-->
                 <div class="col-md-4 pt-5">
                     <h2 class="h2 text-light border-bottom pb-3 border-light">Informacion</h2>
                     <ul class="list-unstyled text-light footer-link-list">
-                        <li><a class="text-decoration-none" href="#">Home</a></li>
-                        <li><a class="text-decoration-none" href="#">About Us</a></li>
-                        <li><a class="text-decoration-none" href="#">Shop Locations</a></li>
+                        <li><a class="text-decoration-none" href="/">Inicio</a></li>
+                        <li><a class="text-decoration-none" href="/nosotros">Nosotros</a></li>
+                        <li><a class="text-decoration-none" href="#">Ubicacion</a></li>
                         <li><a class="text-decoration-none" href="#">FAQs</a></li>
-                        <li><a class="text-decoration-none" href="#">Contact</a></li>
+                        <li><a class="text-decoration-none" href="/contactanos">Contactanos</a></li>
                     </ul>
                 </div>
 
@@ -194,10 +194,10 @@ https://templatemo.com/tm-559-zay-shop
                     </ul>
                 </div>
                 <div class="col-auto">
-                    <label class="sr-only" for="subscribeEmail">Email address</label>
+                    <label class="sr-only" for="subscribeEmail">Correo Electronico</label>
                     <div class="input-group mb-2">
                         <input type="text" class="form-control bg-dark border-light" id="subscribeEmail" placeholder="Email address">
-                        <div class="input-group-text btn-success text-light">Subscribe</div>
+                        <div class="input-group-text btn-success text-light">Suscribete</div>
                     </div>
                 </div>
             </div>
@@ -208,8 +208,8 @@ https://templatemo.com/tm-559-zay-shop
                 <div class="row pt-2">
                     <div class="col-12">
                         <p class="text-left text-light">
-                            Copyright &copy; 2021 Company Name 
-                            | Designed by <a rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a>
+                            Copyright &copy; 2023 CityBiker
+                            <!--| Designed by <a rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a>-->
                         </p>
                     </div>
                 </div>
