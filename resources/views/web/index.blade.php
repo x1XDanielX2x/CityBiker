@@ -14,7 +14,7 @@
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./web/img/banner_img_01.jpg" alt="">
+                            <img class="img-fluid" src="./web/img/Foto_almacen.jpeg" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left align-self-center">
@@ -32,7 +32,7 @@
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./web/img/banner_img_02.jpg" alt="">
+                            <img class="img-fluid" src="./web/img/Foto_Taller.jpeg" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
@@ -50,7 +50,7 @@
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./web/img/banner_img_03.jpg" alt="">
+                            <img class="img-fluid" src="./web/img/pintura/Pintura_azul_oscuro.jpeg" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
@@ -79,27 +79,26 @@
     <section class="container py-5">
         <div class="row text-center pt-3">
             <div class="col-lg-6 m-auto">
-                <h1 class="h1">Categories of The Month</h1>
+                <h1 class="h1">Categorias</h1>
                 <p>
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                    deserunt mollit anim id est laborum.
+                    Gran variedad de productos para establecer tu tranquilidad y emocion.
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./web/img/category_img_01.jpg" class="rounded-circle img-fluid border"></a>
-                <h5 class="text-center mt-3 mb-3">Watches</h5>
+                <a href="#"><img src="./web/img/Productos/Candados_disco.jpg" class="rounded-circle img-fluid border"></a>
+                <h5 class="text-center mt-3 mb-3">Seguridad</h5>
                 <p class="text-center"><a class="btn btn-success" href="/tienda">Comprar</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./web/img/category_img_02.jpg" class="rounded-circle img-fluid border"></a>
-                <h2 class="h5 text-center mt-3 mb-3">Shoes</h2>
+                <a href="#"><img src="./web/img/Productos/Patos_plateados.jpg" class="rounded-circle img-fluid border center"></a>
+                <h2 class="h5 text-center mt-3 mb-3">Acompañante</h2>
                 <p class="text-center"><a class="btn btn-success" href="/tienda">Comprar</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./web/img/category_img_03.jpg" class="rounded-circle img-fluid border"></a>
-                <h2 class="h5 text-center mt-3 mb-3">Accessories</h2>
+                <a href="#"><img src="./web/img/Productos/Protectores_zapato.jpg" class="rounded-circle img-fluid border center"></a>
+                <h2 class="h5 text-center mt-3 mb-3">Protecciones</h2>
                 <p class="text-center"><a class="btn btn-success" href="/tienda">Comprar</a></p>
             </div>
         </div>
@@ -112,10 +111,9 @@
         <div class="container py-5">
             <div class="row text-center py-3">
                 <div class="col-lg-6 m-auto">
-                    <h1 class="h1">Featured Product</h1>
+                    <h1 class="h1">Productos mas vendidos</h1>
                     <p>
-                        Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                        Excepteur sint occaecat cupidatat non proident.
+                        Estos son los productos mas vendidos, y comercializado por nuestra compañia.
                     </p>
                 </div>
             </div>
@@ -123,7 +121,7 @@
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="/tienda-unica">
-                            <img src="./web/img/feature_prod_01.jpg" class="card-img-top" alt="...">
+                            <img src="./web/img/Productos/Protectores_zapato.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -147,7 +145,7 @@
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="/tienda-unica">
-                            <img src="./web/img/feature_prod_02.jpg" class="card-img-top" alt="...">
+                            <img src="./web/img/Productos/corneta.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -171,7 +169,7 @@
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="/tienda-unica">
-                            <img src="./web/img/feature_prod_03.jpg" class="card-img-top" alt="...">
+                            <img src="./web/img/Productos/Patos_rojos.jpg" class="card-img-top" alt="..." style="100%">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
